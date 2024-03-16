@@ -1,1 +1,3 @@
 # Weather-App
+This project is a simple weather application built using HTML, CSS, and JavaScript. The web page layout consists of a header with a search box for entering a location, a section for displaying weather information, and a message section for when the entered location is not found. The application utilizes external resources such as Font Awesome for icons and includes custom CSS styles for layout and presentation. JavaScript is employed to fetch weather data from an API based on the user's input and dynamically update the content of elements such as temperature, description, humidity, and wind speed. The project aims to provide a user-friendly interface for accessing current weather information for any given location.
+
